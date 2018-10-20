@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="activity_layout_width_image_profile">50dp</dimen>
+    <dimen name="activity_layout_height_image_profile">50dp</dimen>
+    <dimen name="activity_layout_marginStart_text">13dp</dimen>
+    <dimen name="activity_layout_marginRight_text">10dp</dimen>
+    <dimen name="activity_layout_width_image_star">20dp</dimen>
+    <dimen name="activity_layout_height_image_star">20dp</dimen>
+    <dimen name="activity_layout_padding_item_list">16dp</dimen>
+</resources>
